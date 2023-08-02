@@ -1,0 +1,5 @@
+<html>
+<head>sample page</head>
+<body> <center>welcome to all</center>
+</body>
+</tml>
